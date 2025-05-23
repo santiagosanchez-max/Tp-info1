@@ -20,6 +20,7 @@ int main()
     printf("\t\t\t Índice     │   Condición  \n");
     printf("\t\t------------------------------------\n\n");
     printf("\t\t\t <18.5      │  Bajo peso \n");
+    printf("\t\t\t 18.5 a 2.9 |  Normal    \n");
     printf("\t\t\t 25.0 a 29.9│  sobre peso \n");
     printf("\t\t\t >=30       │  Obesidad");
     
