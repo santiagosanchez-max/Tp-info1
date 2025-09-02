@@ -102,7 +102,7 @@ int main()
              
              
              default:
-             printf("\n\n-------- ¡Hasta luego!--------\n");
+             printf("\n\n-------- Â¡Hasta luego!--------\n");
     }
     
     
